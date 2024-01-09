@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DE-GTU-CANVAS-.git/static/css/main.f6dfaeda.chunk.css",
-    "main.js": "/DE-GTU-CANVAS-.git/static/js/main.2566ac9b.chunk.js",
-    "main.js.map": "/DE-GTU-CANVAS-.git/static/js/main.2566ac9b.chunk.js.map",
-    "runtime~main.js": "/DE-GTU-CANVAS-.git/static/js/runtime~main.be24d5a5.js",
-    "runtime~main.js.map": "/DE-GTU-CANVAS-.git/static/js/runtime~main.be24d5a5.js.map",
-    "static/js/2.c573a451.chunk.js": "/DE-GTU-CANVAS-.git/static/js/2.c573a451.chunk.js",
-    "static/js/2.c573a451.chunk.js.map": "/DE-GTU-CANVAS-.git/static/js/2.c573a451.chunk.js.map",
-    "static/js/3.177faaa1.chunk.js": "/DE-GTU-CANVAS-.git/static/js/3.177faaa1.chunk.js",
-    "static/js/3.177faaa1.chunk.js.map": "/DE-GTU-CANVAS-.git/static/js/3.177faaa1.chunk.js.map",
-    "index.html": "/DE-GTU-CANVAS-.git/index.html",
-    "precache-manifest.ee71e512392c341a2eb6dabbd8947787.js": "/DE-GTU-CANVAS-.git/precache-manifest.ee71e512392c341a2eb6dabbd8947787.js",
-    "service-worker.js": "/DE-GTU-CANVAS-.git/service-worker.js",
-    "static/css/main.f6dfaeda.chunk.css.map": "/DE-GTU-CANVAS-.git/static/css/main.f6dfaeda.chunk.css.map"
+    "main.css": "/DE-GTU-CANVAS-/static/css/main.f6dfaeda.chunk.css",
+    "main.js": "/DE-GTU-CANVAS-/static/js/main.2566ac9b.chunk.js",
+    "main.js.map": "/DE-GTU-CANVAS-/static/js/main.2566ac9b.chunk.js.map",
+    "runtime~main.js": "/DE-GTU-CANVAS-/static/js/runtime~main.2b546d18.js",
+    "runtime~main.js.map": "/DE-GTU-CANVAS-/static/js/runtime~main.2b546d18.js.map",
+    "static/js/2.c573a451.chunk.js": "/DE-GTU-CANVAS-/static/js/2.c573a451.chunk.js",
+    "static/js/2.c573a451.chunk.js.map": "/DE-GTU-CANVAS-/static/js/2.c573a451.chunk.js.map",
+    "static/js/3.177faaa1.chunk.js": "/DE-GTU-CANVAS-/static/js/3.177faaa1.chunk.js",
+    "static/js/3.177faaa1.chunk.js.map": "/DE-GTU-CANVAS-/static/js/3.177faaa1.chunk.js.map",
+    "index.html": "/DE-GTU-CANVAS-/index.html",
+    "precache-manifest.066716c9f989647f6080109bb16393eb.js": "/DE-GTU-CANVAS-/precache-manifest.066716c9f989647f6080109bb16393eb.js",
+    "service-worker.js": "/DE-GTU-CANVAS-/service-worker.js",
+    "static/css/main.f6dfaeda.chunk.css.map": "/DE-GTU-CANVAS-/static/css/main.f6dfaeda.chunk.css.map"
   }
 }
