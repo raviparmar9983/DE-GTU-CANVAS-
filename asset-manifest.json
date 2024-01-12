@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/DE-GTU-CANVAS-/static/css/main.f6dfaeda.chunk.css",
-    "main.js": "/DE-GTU-CANVAS-/static/js/main.2566ac9b.chunk.js",
-    "main.js.map": "/DE-GTU-CANVAS-/static/js/main.2566ac9b.chunk.js.map",
-    "runtime~main.js": "/DE-GTU-CANVAS-/static/js/runtime~main.2b546d18.js",
-    "runtime~main.js.map": "/DE-GTU-CANVAS-/static/js/runtime~main.2b546d18.js.map",
-    "static/js/2.c573a451.chunk.js": "/DE-GTU-CANVAS-/static/js/2.c573a451.chunk.js",
-    "static/js/2.c573a451.chunk.js.map": "/DE-GTU-CANVAS-/static/js/2.c573a451.chunk.js.map",
-    "static/js/3.177faaa1.chunk.js": "/DE-GTU-CANVAS-/static/js/3.177faaa1.chunk.js",
-    "static/js/3.177faaa1.chunk.js.map": "/DE-GTU-CANVAS-/static/js/3.177faaa1.chunk.js.map",
+    "main.css": "/DE-GTU-CANVAS-/static/css/main.581c17f2.chunk.css",
+    "main.js": "/DE-GTU-CANVAS-/static/js/main.c9fb8062.chunk.js",
+    "main.js.map": "/DE-GTU-CANVAS-/static/js/main.c9fb8062.chunk.js.map",
+    "runtime~main.js": "/DE-GTU-CANVAS-/static/js/runtime~main.e48068bb.js",
+    "runtime~main.js.map": "/DE-GTU-CANVAS-/static/js/runtime~main.e48068bb.js.map",
+    "static/js/2.5ca45368.chunk.js": "/DE-GTU-CANVAS-/static/js/2.5ca45368.chunk.js",
+    "static/js/2.5ca45368.chunk.js.map": "/DE-GTU-CANVAS-/static/js/2.5ca45368.chunk.js.map",
+    "static/js/3.730e5367.chunk.js": "/DE-GTU-CANVAS-/static/js/3.730e5367.chunk.js",
+    "static/js/3.730e5367.chunk.js.map": "/DE-GTU-CANVAS-/static/js/3.730e5367.chunk.js.map",
     "index.html": "/DE-GTU-CANVAS-/index.html",
-    "precache-manifest.066716c9f989647f6080109bb16393eb.js": "/DE-GTU-CANVAS-/precache-manifest.066716c9f989647f6080109bb16393eb.js",
+    "precache-manifest.0f9f460b45e954999ce202b6afb99674.js": "/DE-GTU-CANVAS-/precache-manifest.0f9f460b45e954999ce202b6afb99674.js",
     "service-worker.js": "/DE-GTU-CANVAS-/service-worker.js",
-    "static/css/main.f6dfaeda.chunk.css.map": "/DE-GTU-CANVAS-/static/css/main.f6dfaeda.chunk.css.map"
+    "static/css/main.581c17f2.chunk.css.map": "/DE-GTU-CANVAS-/static/css/main.581c17f2.chunk.css.map",
+    "static/media/aeiou.png": "/DE-GTU-CANVAS-/static/media/aeiou.19938608.png",
+    "static/media/empathy.png": "/DE-GTU-CANVAS-/static/media/empathy.3f5692b1.png",
+    "static/media/ideation.png": "/DE-GTU-CANVAS-/static/media/ideation.28a0b0b2.png",
+    "static/media/lmn.png": "/DE-GTU-CANVAS-/static/media/lmn.d2e781da.png",
+    "static/media/prod.png": "/DE-GTU-CANVAS-/static/media/prod.e5ace7e6.png"
   }
 }
